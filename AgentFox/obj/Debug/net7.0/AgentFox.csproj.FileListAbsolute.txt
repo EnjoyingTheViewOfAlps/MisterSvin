@@ -1,0 +1,15 @@
+C:\Users\пк\source\repos\AgentFox\AgentFox\bin\Debug\net7.0\AgentFox.exe
+C:\Users\пк\source\repos\AgentFox\AgentFox\bin\Debug\net7.0\AgentFox.deps.json
+C:\Users\пк\source\repos\AgentFox\AgentFox\bin\Debug\net7.0\AgentFox.runtimeconfig.json
+C:\Users\пк\source\repos\AgentFox\AgentFox\bin\Debug\net7.0\AgentFox.dll
+C:\Users\пк\source\repos\AgentFox\AgentFox\bin\Debug\net7.0\AgentFox.pdb
+C:\Users\пк\source\repos\AgentFox\AgentFox\obj\Debug\net7.0\AgentFox.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\AgentFox\AgentFox\obj\Debug\net7.0\AgentFox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\source\repos\AgentFox\AgentFox\obj\Debug\net7.0\AgentFox.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\AgentFox\AgentFox\obj\Debug\net7.0\AgentFox.AssemblyInfo.cs
+C:\Users\пк\source\repos\AgentFox\AgentFox\obj\Debug\net7.0\AgentFox.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\AgentFox\AgentFox\obj\Debug\net7.0\AgentFox.dll
+C:\Users\пк\source\repos\AgentFox\AgentFox\obj\Debug\net7.0\refint\AgentFox.dll
+C:\Users\пк\source\repos\AgentFox\AgentFox\obj\Debug\net7.0\AgentFox.pdb
+C:\Users\пк\source\repos\AgentFox\AgentFox\obj\Debug\net7.0\AgentFox.genruntimeconfig.cache
+C:\Users\пк\source\repos\AgentFox\AgentFox\obj\Debug\net7.0\ref\AgentFox.dll
